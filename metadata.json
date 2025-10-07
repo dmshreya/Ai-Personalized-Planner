@@ -1,0 +1,5 @@
+{
+  "name": "AI Personalized Workout & Diet Planner",
+  "description": "An AI-powered application that generates personalized workout and diet plans for students, considering their goals, preferences, budget, and cultural food habits.",
+  "requestFramePermissions": []
+}
